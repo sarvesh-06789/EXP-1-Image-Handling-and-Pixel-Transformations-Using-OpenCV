@@ -1,4 +1,8 @@
 # EXP-1-Image-Handling-and-Pixel-Transformations-Using-OpenCV
+## NAME:SHARVESHWARAN M
+## REG.NO:212224240150
+
+
 # Aim:
 
 To perform basic image handling and pixel transformation operations using OpenCV in Python, including loading an image, displaying it, drawing shapes, adding text, resizing, rotating, flipping, cropping, and saving the modified image.
